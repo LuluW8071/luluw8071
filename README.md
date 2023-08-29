@@ -3,7 +3,10 @@
 </div>
 
 ## 💫 About Me
-🔭 I’m currently working on a *Speech Recognition* Project<br>👯 I’m looking to collaborate on innovative tech projects<br>🌱 I’m currently learning *Javascript* and *PyTorch* framework<br>⚡ Fun fact: Coding is so captivating that I lose track of time while immersed in it! 
+🔭 I’m currently working on a *Speech Recognition* Project<br>
+👯 I’m looking to collaborate on innovative tech projects<br>
+🌱 I’m currently learning *Javascript* and *PyTorch* framework<br>
+⚡ Fun fact: Coding is so captivating that I lose track of time while immersed in it! 
 
 
 ---
@@ -42,7 +45,7 @@ Currently Learning:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 ### 🌐 Socials
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shashinmhrzn@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sh4shin.MhrZn) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shashinmaharjan@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sh4shin.MhrZn)
 
 ---
 
