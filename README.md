@@ -12,7 +12,6 @@
 ---
 <div style="display: grid; justify-content: center;">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&show_icons=true&locale=en&layout=compact&theme=dark" alt="luluw"/> </br></br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark" alt="luluw" />
 </p>
 </div>
@@ -24,6 +23,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+<div style="display: grid; justify-content: center;">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&show_icons=true&locale=en&layout=compact&theme=dark" alt="luluw"/>
+</p>
+</div>
 ---
 
 ### 💻 Languages
