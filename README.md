@@ -1,22 +1,4 @@
-<div style="max-width: 100%; overflow: hidden;">
-  <img src="git.gif" style="width: 100%;" alt="GitHub Image">
-</div>
 
-## 💫 About Me
-🔭 I’m currently working on a *Speech Recognition* Project<br>
-👯 I’m looking to collaborate on innovative tech projects<br>
-🌱 I’m currently learning *Javascript* and *PyTorch* framework<br>
-⚡ Fun fact: Coding is so captivating that I lose track of time while immersed in it! 
-
-
----
-<div style="display: grid; justify-content: center;">
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark" alt="luluw" />
-</p>
-</div>
-
----
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
@@ -25,10 +7,29 @@
   </picture>
 </div>
 
+## 💫 About Me
+🔭 I’m currently working on a *Speech Recognition* Project<br>
+👯 I’m looking to collaborate on innovative tech projects<br>
+🌱 I’m currently learning *Javascript* and *PyTorch* framework<br>
+⚡ Fun fact: Coding is so captivating that I lose track of time while immersed in it! 
 
 ---
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luluw8071&color=blue">   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/luluw8071?label=Followers&style=social"> 
+</p>
+
+<br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/> &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="luluw"/>
+</p>
+ 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&show_icons=true&locale=en&layout=compact&theme=dark" alt="luluw"/>
   
   ### 💻 Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
