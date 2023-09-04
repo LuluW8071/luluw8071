@@ -26,7 +26,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/> &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="luluw"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&locale=en&layout=compact&theme=dark&hide_border=true" alt="luluw"/>
 </p>
  
 <div align="center">
