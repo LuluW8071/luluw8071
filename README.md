@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/S79HXrghNKwYAFivno/giphy.gif?cid=6c09b95250s8s5hygm0hbqdvxwxotyplfz6jxnsw7q2ch213&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="230" width="40%" style="vertical-align: top;">
+  <img src="follow.gif" height="100%" width="40%" style="vertical-align: top;">
 </p>
 
 
