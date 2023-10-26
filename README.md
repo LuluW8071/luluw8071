@@ -21,8 +21,8 @@
 <p align="center">
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753)
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/> <br/> <br/>
-  <img align="lef" src="https://github-readme-stats.vercel.app/api?username=luluw8071&show_icons=true&locale=en&theme=dark&hide_border=true" alt="luluw8071" /> 
+   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/> <br/> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luluw8071&show_icons=true&locale=en&theme=dark&hide_border=true" alt="luluw8071" /> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&locale=en&layout=compact&theme=dark&hide_border=true" alt="luluw"/><br/>
 
 </p>
