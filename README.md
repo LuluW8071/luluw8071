@@ -7,12 +7,7 @@
   </picture>
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luluw8071&color=blue">   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/luluw8071?label=Followers&style=social"> 
-</p>
+<hr/>
 
 [![An image of @luluw8071's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
 
