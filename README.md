@@ -42,7 +42,9 @@
 <a href="https://www.linkedin.com/in/shashin-maharjan-71467928a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashin maharjan" height="35" width="40" />
 </a>
+</br>
 
+***
 <p align="center">
   <i>--There is always one more bug to fix.-- </i>
   </br>
