@@ -9,62 +9,45 @@
 
 <hr/>
 
-[![An image of @luluw8071's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
-
-<br/>
- 
 <p align="center">
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753) &nbsp;&nbsp;
-  <img align="center" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/> <br/> <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=luluw8071&show_icons=true&locale=en&theme=dark&hide_border=true" alt="luluw8071" /> &nbsp;&nbsp;
-  <img align="center" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&locale=en&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,scss" alt="luluw"/><br/>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753) &nbsp;&nbsp;&nbsp;
+  <img  width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>
+</p>
+<br/> 
+
+[![ @luluw8071's Holopin badges](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
+<br/> <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=luluw8071&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="luluw8071" /> &nbsp;&nbsp;&nbsp;
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&locale=en&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="luluw"/><br/>
 
 </p>
-<br/>
 
-<div align="center">
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-      <img src="https://i.postimg.cc/ht6nmY8S/output-onlinepngtools-1.png" alt="flask" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </p>
-</div>
+## :wrench: My Stacks
 
-<div align="center">
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://www.facebook.com/Sh4shin.MhrZn" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashin maharjan" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/shashin-maharjan-71467928a/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashin maharjan" height="35" width="40" />
-    </a>
-  </p>
-</div>
+|Language|Framework & Library|Styling Library|Database|
+|-|-|-|-|
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E)|<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> ![Django](https://img.shields.io/badge/-Django-%23092E20.svg?style=for-the-badge&logoColor=white)|<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%233DB2AC.svg?style=for-the-badge&logoColor=white)|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="" width="40" height="40"/> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)|
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=white)|<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="40"/> ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logoColor=white)|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logoColor=white)|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> ![MySQL](https://img.shields.io/badge/MySQL-%230074C1.svg?style=for-the-badge&logoColor=white)|
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logoColor=white)|<img src="https://i.postimg.cc/ht6nmY8S/output-onlinepngtools-1.png" alt="flask" width="40" height="40"/> ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logoColor=white)|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logoColor=white)|<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="c" width="40" height="40"/> ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logoColor=white)|<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logoColor=white)|
 
-***
+## ✨🚀 Connect with me 
+<a href="https://www.facebook.com/Sh4shin.MhrZn" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashin maharjan" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/shashin-maharjan-71467928a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashin maharjan" height="35" width="40" />
+</a>
+
 <p align="center">
   <i>--There is always one more bug to fix.-- </i>
-</p>
-
-<p align="center">
+  </br>
   <img src="follow.gif" height="100%" width="40%" style="vertical-align: top;">
 </p>
+
 
 
