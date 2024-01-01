@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753) &nbsp;&nbsp;&nbsp;
+  [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753) &nbsp;&nbsp;
   <img  width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>
 </p>
 <br/> 
