@@ -24,6 +24,7 @@
 </p>
 
 ## :wrench: My Stacks
+<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="200"/>
 
 |Language|Framework & Library|Styling Library|Database|
 |-|-|-|-|
@@ -35,21 +36,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logoColor=white)|<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logoColor=white)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logoColor=white)|
 
-## ✨🚀 Connect with me 
-<a href="https://www.facebook.com/Sh4shin.MhrZn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashin maharjan" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/shashin-maharjan-71467928a/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashin maharjan" height="35" width="40" />
-</a>
-</br>
 
 ***
-<p align="center">
-  <i>--There is always one more bug to fix.-- </i>
+<p align="left">
   </br>
-  <img src="follow.gif" height="100%" width="40%" style="vertical-align: top;">
+  <img align = "left" src="follow.gif" height="100%" width="40%" style="vertical-align: top;">
 </p>
 
-
-
+<div align="right">
+  
+  ## Connect with me✨🚀</h1>
+  <a href="https://www.facebook.com/Sh4shin.MhrZn" target="_blank"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" alt="facebook" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/shashin-maharjan-71467928a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+  <a href="https://discordapp.com/users/600529917977034753" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="40" width="40" />
+  <a href="https://www.youtube.com/@luluw9699" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube" height="40" width="40" />
+</div>
