@@ -25,7 +25,6 @@
 
 ## :wrench: My Stacks
 <img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="120px"/>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="130px"/>
 
 |Language|Framework & Library|Styling Library|Database|
 |-|-|-|-|
