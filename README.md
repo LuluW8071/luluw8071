@@ -44,7 +44,7 @@
 
 <div align="right">
   
-### Connect with me✨🚀 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+## Connect with me✨🚀 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
 [![Facebook](https://img.icons8.com/color/48/facebook.png)](https://www.facebook.com/Sh4shin.MhrZn)
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shashin-maharjan-71467928a/)
 [![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discordapp.com/users/600529917977034753)
