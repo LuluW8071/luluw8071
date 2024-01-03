@@ -1,4 +1,4 @@
-
+<!--LuluW Profile-->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
@@ -24,7 +24,7 @@
 </p>
 
 ## :wrench: My Stacks
-<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="120px"/>
+<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="120px">
 
 |Language|Framework & Library|Styling Library|Database|
 |-|-|-|-|
@@ -44,13 +44,10 @@
 
 <div align="right">
   
-  ## Connect with me✨🚀</h1>
-  <a href="https://www.facebook.com/Sh4shin.MhrZn" target="_blank"></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" alt="facebook" height="40" width="40" />
-  <a href="https://www.linkedin.com/in/shashin-maharjan-71467928a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-  <a href="https://discordapp.com/users/600529917977034753" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="40" width="40" />
-  <a href="https://www.youtube.com/@luluw9699" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube" height="40" width="40" />
+### Connect with me✨🚀 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+[![Facebook](https://img.icons8.com/color/48/facebook.png)](https://www.facebook.com/Sh4shin.MhrZn)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shashin-maharjan-71467928a/)
+[![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discordapp.com/users/600529917977034753)
+[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@luluw9699)
+
 </div>
