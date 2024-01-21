@@ -24,7 +24,7 @@
 </p>
 
 ## :wrench: My Stacks
-<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="100px"/>
+<!--<img align="right" src="https://i.ibb.co/CJfW18H/ship.gif" width="100px"/>-->
 
 |Language|Framework & Library|Styling Library|Database|
 |-|-|-|-|
