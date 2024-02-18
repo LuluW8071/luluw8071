@@ -14,6 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: LuluW8071/LuluW@master
+      - uses: LuluW8071/LuluW8071@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
