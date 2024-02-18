@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: luluw8071/luluw8071@master
         with:
           # Your GitHub token
           # The following scopes are required:
