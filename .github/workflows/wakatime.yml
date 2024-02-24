@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: luluw8071/luluw8071@master
         with:
           WAKATIME_API_KEY: ${{ secrets.GITHUB_TOKEN }}
