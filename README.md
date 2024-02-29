@@ -26,7 +26,19 @@
 
 </p>
 
-## :wrench: My Stacks
+<!--START_SECTION:waka-->
+
+```txt
+Python       3 hrs 49 mins   █████████████████████▒░░░   85.90 %
+Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+<!--END_SECTION:waka-->
+
+## My Stacks :wrench:
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;
@@ -59,17 +71,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;
 </div>
 
-<!--START_SECTION:waka-->
 
-```txt
-Python       3 hrs 49 mins   █████████████████████▒░░░   85.90 %
-Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
 
 ## Holopin badges
 [![ @luluw8071's Holopin badges](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
