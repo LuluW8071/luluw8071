@@ -60,6 +60,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       3 hrs 49 mins   █████████████████████▒░░░   85.90 %
+Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Markdown     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Holopin badges
