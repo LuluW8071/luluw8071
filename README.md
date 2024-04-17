@@ -1,4 +1,12 @@
 <!--LuluW Profile-->
+
+[<img align="left" width="400" alt="General Metrics" src="assets/general.svg">](#)
+[<img align="right" width="400" alt="Achievements" src="assets/achievements.svg">](#)
+[<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753)
+
+  
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
@@ -7,62 +15,46 @@
   </picture>
 </div>
 
-
-<hr/>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLuluW8071&label=VISITORS&labelColor=%23555555&countColor=%23F0B354&labelStyle=upper" alt="𝙶𝚒𝚝𝙷𝚞𝚋 Profile Views"> &nbsp;
-  <img src="https://img.shields.io/github/followers/luluw8071?label=Followers&style=social" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" width = "120px"> 
-</p>
-
-<p align="center">
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753) &nbsp;&nbsp;
-  <img  width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=luluw8071&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="luluw8071" /> &nbsp;&nbsp;&nbsp;
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luluw8071&locale=en&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="luluw"/><br/>
-
-</p>
-
-
 ## :wrench: My Stacks 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  width="60" height="60"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="60" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"  width="60" height="60"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="60" height="60"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  width="60" height="60"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="60" height="60"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="python" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=php" alt="php" width="55" height="55"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=md" alt="markdown" width="55" height="55"/> &nbsp;
 </div>
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="70" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> &nbsp;
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="c" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> &nbsp;
-  <img src="https://i.postimg.cc/ht6nmY8S/output-onlinepngtools-1.png" alt="flask" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=django" alt="django" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="50" height="50"/> &nbsp;
 </div>
 
 <div align="center">
-  <img src="https://github.com/LuluW8071/LuluW8071/blob/master/next.png" alt="NextJS" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> &nbsp;
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="" width="50" height="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="50" height="50"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="50" height="50"/> &nbsp;
 </div>
 
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" width="50" height="50"/> &nbsp;
+</div>
 
 ## Holopin badges
 [![ @luluw8071's Holopin badges](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
@@ -70,15 +62,15 @@
 ***
 <p align="left">
   </br>
-  <img align = "left" src="follow.gif" height="100%" width="40%" style="vertical-align: top;">
+  <img align = "left" src="follow.gif" height="100%" width="35%" style="vertical-align: top;">
 </p>
 
 <div align="right">
   
-## Connect with me✨🚀 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-[![Facebook](https://img.icons8.com/color/48/facebook.png)](https://www.facebook.com/Sh4shin.MhrZn)
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shashin-maharjan-71467928a/)
-[![Discord](https://img.icons8.com/color/48/discord-logo.png)](https://discordapp.com/users/600529917977034753)
-[![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@luluw9699)
+## Socials :rocket::star2:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shashin-mhrzn/)&nbsp;
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/600529917977034753)&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Luluw_Mhrzn)&nbsp;
 
 </div>
