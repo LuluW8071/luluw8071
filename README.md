@@ -28,8 +28,14 @@
   <img src="https://skillicons.dev/icons?i=ae" alt="Extra Skills" height="55"/> </br>
 </div>
 
-## Holopin Badges
-[![ @luluw8071's Holopin badges](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
+<details>
+  <summary><h2>📛 Holopin Badges</h2></summary>
+  
+  [![ @luluw8071's Holopin badges](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
+</details>
+
+
+</summary>
 
 <p align="left">
   </br>
