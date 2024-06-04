@@ -21,9 +21,10 @@
 
 ## :wrench: My Stacks 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,matlab,opencv,nextjs,django,flask" alt="Frameworks" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,pandas,numpy,nextjs,django,flask" alt="Frameworks & Libraries" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy,sklearn,matplotlib,opencv" alt="Frameworks & Libraries" height="55"/> </br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,matlab,octave,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
   <img src="https://skillicons.dev/icons?i=ae" alt="Extra Skills" height="55"/> </br>
 </div>
