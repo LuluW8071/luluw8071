@@ -22,11 +22,11 @@
 ## :wrench: My Stacks 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,pandas,numpy,nextjs,django,flask" alt="Frameworks & Libraries" height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy,sklearn,matplotlib,opencv" alt="Frameworks & Libraries" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,streamlit,django,flask,nextjs" alt="Frameworks & Libraries" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,sklearn,matplotlib,seaborn,opencv" alt="Frameworks & Libraries" height="55"/> </br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,matlab,octave,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=ae" alt="Extra Skills" height="55"/> </br>
+  <img src="https://skillicons.dev/icons?i=lucidchart,ae" alt="Extra Skills" height="55"/> </br>
 </div>
 
 <details>
@@ -47,8 +47,9 @@
   
 ## Socials :rocket::star2:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shashin-mhrzn/)&nbsp;
+[![Kaggle](https://go-skill-icons.vercel.app/api/icons?i=kaggle)](https://www.kaggle.com/luluw8071)&nbsp;
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/600529917977034753)&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Luluw_Mhrzn)&nbsp;
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/Luluw_Mhrzn)&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:shashinmaharjan@gmail.com)&nbsp;
 
 </div>
