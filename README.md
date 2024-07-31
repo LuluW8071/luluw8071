@@ -22,11 +22,11 @@
 ## :wrench: My Stacks 
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,streamlit,django,flask,nextjs" alt="Frameworks & Libraries" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,huggingface,langchain,llamaindex,streamlit,django,flask,nextjs" alt="Frameworks & Libraries" height="55"/> </br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,sklearn,matplotlib,seaborn,opencv" alt="Frameworks & Libraries" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,matlab,octave,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,chatgpt,ollama,octave,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=lucidchart,ae" alt="Extra Skills" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lucidchart,ae" alt="Extra Skills" height="55"/> </br>
 </div>
 
 <details>
