@@ -2,19 +2,18 @@
 
 <!--Metrics-->
 [<img align="left" width="400" alt="General Metrics" src="assets/general.svg">](#)
-[<img align="right" width="400" alt="Achievements" src="assets/achievements.svg">](#)
-
-<!--Stats-->
-[<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753)
+[<img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
+
+[<img align="right" width="400" alt="Achievements" src="assets/achievements.svg">](#)
 
 </br>
 <!-- Snake Contrib Graph -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake.svg">
+<!--     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake.svg"> -->
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
@@ -23,8 +22,8 @@
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,huggingface,langchain,llamaindex,streamlit,django,flask,nextjs" alt="Frameworks & Libraries" height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,sklearn,matplotlib,seaborn,opencv" alt="Frameworks & Libraries" height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,chatgpt,ollama,octave,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,sklearn,matplotlib,seaborn,opencv," alt="Frameworks & Libraries" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,chatgpt,gemini,ollama,octave,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=lucidchart,ae" alt="Extra Skills" height="55"/> </br>
 </div>
