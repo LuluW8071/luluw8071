@@ -18,7 +18,8 @@
   </picture>
 </div>
 
-## :wrench: My Stacks 
+<details>
+  <summary><h2>:wrench: My Stacks</h2></summary>
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,huggingface,langchain,llamaindex,streamlit,django,flask,nextjs" alt="Frameworks & Libraries" height="55"/> </br>
@@ -27,6 +28,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=lucidchart,ae" alt="Extra Skills" height="55"/> </br>
 </div>
+</details>
 
 <details>
   <summary><h2>📛 Holopin Badges</h2></summary>
