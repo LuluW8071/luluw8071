@@ -5,11 +5,9 @@
 [<img width="400" alt="Achievements" src="assets/achievements.svg">](#)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/600529917977034753)](https://discord.com/users/600529917977034753)
-[<img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
+[<img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=luluw8071&theme=dark&hide_border=true"/>](#)
 [<img width="405px" src="https://github-readme-stats.vercel.app/api?username=luluw8071&theme=tokyonight&show_icons=true&hide_border=true"/>](#)
 
-
-</br>
 <!-- Snake Contrib Graph -->
 <div align="center">
   <picture>
@@ -18,35 +16,31 @@
   </picture>
 </div>
 
-<details>
-  <summary><h2>:wrench: My Stacks</h2></summary>
+## :wrench: My Stacks</h2></summary>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,js,ts,c,cpp,html,css,php,md" alt="Programming Language"  height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,huggingface,langchain,llamaindex,streamlit,django,flask,nextjs" alt="Frameworks & Libraries" height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,sklearn,matplotlib,seaborn,opencv," alt="Frameworks & Libraries" height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,docker,chatgpt,gemini,ollama,octave,sqlite,mysql" alt="Tools & Database" height="55"/> </br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="55"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=lucidchart,ae" alt="Extra Skills" height="55"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,mojo,js,ts,c,cpp,html,css,php,md" alt="Programming Language" height="50"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,huggingface,langchain,llamaindex,streamlit,django,flask,fastapi,nextjs" alt="Frameworks & Libraries" height="50"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,sklearn,matplotlib,seaborn,opencv" alt="Frameworks & Libraries" height="50"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,githubactions,vscode,docker,wsl,ollama,octave,mysql" alt="Tools & Database" height="50"/> </br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel" alt="Styling library & Deploy" height="50"/></br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,lucidchart,ae" alt="Extra Skills" height="50"/>
 </div>
-</details>
 
 <details>
   <summary><h2>📛 Holopin Badges</h2></summary>
   
   [![ @luluw8071's Holopin badges](https://holopin.me/luluw8071)](https://holopin.io/@luluw8071)
 </details>
-
-
 </summary>
 
-<p align="left">
+<p align="right">
   </br>
-  <img align = "left" src="follow.gif" height="100%" width="35%" style="vertical-align: top;">
+  <img align = "right" src="follow.gif" height="100%" width="35%" style="vertical-align: top;">
 </p>
 
-<div align="right">
+<div align="left">
   
-## Socials :rocket::star2:
+### :star2: Socials :rocket:
 [<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/shashin-mhrzn/)
 [<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>](https://www.kaggle.com/luluw8071)
 [<img width="35px" src="https://skillicons.dev/icons?i=discord"/>](https://discordapp.com/users/600529917977034753)
